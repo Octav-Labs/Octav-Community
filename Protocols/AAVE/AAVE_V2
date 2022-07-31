@@ -1,0 +1,25 @@
+{
+    "chains": [
+        "avalanche",
+        "ethereum",
+        "polygon"
+    ],
+    "protocol": "aave v2",
+    "addresses": [
+        "0xb53c1a33016b2dc2ff3653530bff1848a515c8c5",
+        "0x52D306e36E3B6B02c153d0266ff0f85d18BCD413",
+        "0x7d2768de32b0b80b7a3454c06bdac94a69ddc7a9",
+        "0xbd4765210d4167ce2a5b87280d9e8ee316d5ec7c",
+        "0x311bb771e4f8952e6da169b425e7e92d6ac45756",
+        "0x8a32f49ffba88aba6eff96f45d8bd1d4b3f35c7d",
+        "0xa50ba011c48153de246e5192c8f9258a2ba79ca9",
+        "0xee56e2b3d491590b5b31738cc34d5232f378a8d5",
+        "0xca76ebd8617a03126b6fb84f9b1c1a0fb71c2633",
+        "0x057835Ad21a177dbdd3090bB1CAE03EaCF78Fc6d",
+        "0xcc9a0B7c43DC2a5F023Bb9b738E45B0Ef6B06E04",
+        "0x464c71f6c2f760dda6093dcb91c24c39e5d6e18c",
+        "0xd784927Ff2f95ba542BfC824c8a8a98F3495f6b5",
+        "0x548e95Ce38B8cb1D91FD82A9F094F26295840277",
+        "0xD01ab9a6577E1D84F142e44D49380e23A340387d"
+    ]
+}
