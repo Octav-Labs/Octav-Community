@@ -1,0 +1,9 @@
+{
+    "chains": [
+        "ethereum"
+    ],
+    "protocol": "synapse",
+    "addresses": [
+        "0x6571d6be3d8460cf5f7d6711cd9961860029d85f"
+    ]
+}
