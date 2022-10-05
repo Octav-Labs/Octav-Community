@@ -2,7 +2,7 @@
     "chains": [
         "polygon"
     ],
-    "protocol": "0x",
+    "protocol": "clearpool",
     "addresses": [
         "0xB254554636a3ff52e8B2d0f06203921c137E10d5"
     ]
