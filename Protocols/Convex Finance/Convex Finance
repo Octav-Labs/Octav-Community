@@ -1,0 +1,9 @@
+{
+    "chains": [
+        "ethereum"
+    ],
+    "protocol": "convex finance",
+    "addresses": [
+        "0x0a760466e1b4621579a82a39cb56dda2f4e70f03"
+    ]
+}
