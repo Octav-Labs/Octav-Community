@@ -4,6 +4,27 @@
     ],
     "protocol": "synapse",
     "addresses": [
-        "0x6571d6be3d8460cf5f7d6711cd9961860029d85f"
+        "0x6571d6be3d8460cf5f7d6711cd9961860029d85f",
+        "0x2796317b0ff8538f253012862c06787adfb8ceb6"
+    ]
+}
+
+{
+    "chains": [
+        "avalanche"
+    ],
+    "protocol": "synapse",
+    "addresses": [
+        "0x0ef812f4c68dc84c22a4821ef30ba2ffab9c2f3a"
+    ]
+}
+
+{
+    "chains": [
+        "polygon"
+    ],
+    "protocol": "synapse",
+    "addresses": [
+        "0x1c6ae197ff4bf7ba96c66c5fd64cb22450af9cc8"
     ]
 }

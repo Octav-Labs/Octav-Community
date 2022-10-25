@@ -1,0 +1,19 @@
+{
+    "chains": [
+        "optimism"
+    ],
+    "protocol": "synthetix",
+    "addresses": [
+        "0x4a16a42407aa491564643e1dfc1fd50af29794ef"
+    ]
+}
+
+{
+    "chains": [
+        "ethereum"
+    ],
+    "protocol": "synthetix",
+    "addresses": [
+        "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
+    ]
+}
