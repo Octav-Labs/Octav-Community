@@ -1,0 +1,8 @@
+{
+    "transactionFunctionNames": [
+        {
+            "name": "stake",
+            "transactionType": "stake"
+        }     
+    ]
+}
