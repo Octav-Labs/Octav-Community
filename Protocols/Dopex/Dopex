@@ -1,0 +1,9 @@
+{
+    "chains": [
+        "ethereum"
+    ],
+    "protocol": "dopex",
+    "addresses": [
+        "0x2a52330be21d311a7a3f40dacbfee8978541b74a"
+    ]
+}

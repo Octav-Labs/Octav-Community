@@ -1,0 +1,10 @@
+{
+    "chains": [
+        "ethereum"
+    ],
+    "protocol": "liquity",
+    "addresses": [
+        "0x57619fe9c539f890b19c61812226f9703ce37137",
+        "0x24179cd81c9e782a4096035f7ec97fb8b783e007"
+    ]
+}
