@@ -1,0 +1,9 @@
+{
+    "chains": [
+        "fantom"
+    ],
+    "protocol": "beethoven x",
+    "addresses": [
+        "0x1111111254fb6c44bac0bed2854e76f90643097d"
+    ]
+}

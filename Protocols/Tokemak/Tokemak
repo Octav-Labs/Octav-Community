@@ -1,0 +1,9 @@
+{
+    "chains": [
+        "ethereum"
+    ],
+    "protocol": "tokemak",
+    "addresses": [
+        "0xa760e26aa76747020171fcf8bda108dfde8eb930"
+    ]
+}

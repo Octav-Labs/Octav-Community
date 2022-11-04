@@ -1,0 +1,9 @@
+{
+    "chains": [
+        "ethereum"
+    ],
+    "protocol": "gearbox",
+    "addresses": [
+        "0x86130bdd69143d8a4e5fc50bf4323d48049e98e4"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "chains": [
+        "ethereum"
+    ],
+    "protocol": "across",
+    "addresses": [
+        "0x4d9079bb4165aeb4084c526a32695dcfd2f77381"
+    ]
+}

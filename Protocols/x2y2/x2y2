@@ -1,0 +1,9 @@
+{
+    "chains": [
+        "ethereum"
+    ],
+    "protocol": "x2y2",
+    "addresses": [
+        "0x74312363e45dcaba76c59ec49a7aa8a65a67eed3"
+    ]
+}

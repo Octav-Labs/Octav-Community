@@ -1,0 +1,24 @@
+{
+    "transactionFunctionNames": [      
+        {
+            "name": "collect",
+            "transactionType": "Claim"
+        },
+        {
+            "name": "claim",
+            "transactionType": "Claim"
+        },
+        {
+            "name": "claimBatch",
+            "transactionType": "Claim"
+        },
+        {
+            "name": "claimTokens",
+            "transactionType": "Claim"
+        },
+        {
+            "name": "claimMany",
+            "transactionType": "Claim"
+        }  
+    ]
+}
