@@ -1,0 +1,9 @@
+{
+    "chains": [
+        "arbitrum"
+    ],
+    "protocol": "vesta finance",
+    "addresses": [
+        "0x3eedf348919d130954929d4ff62d62"
+    ]
+}

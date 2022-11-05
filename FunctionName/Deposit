@@ -1,8 +1,12 @@
 {
     "transactionFunctionNames": [
         {
-            "name": "",
+            "name": "depositETH",
             "transactionType": "deposit"
-        }   
+        },
+        {
+            "name": "increaseLiquidity",
+            "transactionType": "deposit"
+        }    
     ]
 }

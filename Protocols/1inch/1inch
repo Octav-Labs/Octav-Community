@@ -1,0 +1,10 @@
+
+{
+    "chains": [
+        "ethereum"
+    ],
+    "protocol": "1inch network",
+    "addresses": [
+        "0x11111254369792b2ca5d084ab5eea397ca8fa48b"
+    ]
+}
