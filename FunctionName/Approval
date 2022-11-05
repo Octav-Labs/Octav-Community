@@ -3,6 +3,10 @@
         {
             "name": "setApprovalForAll",
             "transactionType": "approval"
-        }   
+        },
+        {
+            "name": "approve",
+            "transactionType": "approval"
+        }     
     ]
 }

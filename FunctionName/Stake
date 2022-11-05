@@ -3,6 +3,10 @@
         {
             "name": "stake",
             "transactionType": "stake"
-        }     
+        },
+        {
+            "name": "enter",
+            "transactionType": "stake"
+        }        
     ]
 }

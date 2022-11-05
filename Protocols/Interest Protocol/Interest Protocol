@@ -1,0 +1,9 @@
+{
+    "chains": [
+        "ethereum"
+    ],
+    "protocol": "interest protocol",
+    "addresses": [
+        "0xd909c5862cdb164adb949d92622082f0092efc3d"
+    ]
+}

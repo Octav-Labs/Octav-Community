@@ -26,3 +26,12 @@
         "0x8aA68Ca9e25aAb6f9f41bF341d12Ab407AE099E2"
     ]
 }
+{
+    "chains": [
+        "optimism"
+    ],
+    "protocol": "aave v3",
+    "addresses": [
+        "0x76d3030728e52deb8848d5613abade88441cbc59"
+    ]
+}

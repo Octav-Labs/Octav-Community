@@ -1,0 +1,21 @@
+{
+    "chains": [
+        "ethereum"
+    ],
+    "protocol": "dopex",
+    "addresses": [
+        "0x2a52330be21d311a7a3f40dacbfee8978541b74a"
+    ]
+}
+{
+    "chains": [
+        "arbitrum"
+    ],
+    "protocol": "dopex",
+    "addresses": [
+        "0x32eb7902d4134bf98a28b963d26de779af92a212",
+        "0x6c2c06790b3e3e3c38e12ee22f8183b37a13ee55",
+        "0x7a839098c2754dba5a8f489a73b8db10bd3dc35c",
+        "0x66cf9033e119fca8429bc87d423a14aaced22a3d"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "chains": [
+        "arbitrum"
+    ],
+    "protocol": "jones dao",
+    "addresses": [
+        "0xb94d1959084081c5a11C460012Ab522F5a0FD756"
+    ]
+}
