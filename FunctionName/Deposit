@@ -7,6 +7,10 @@
         {
             "name": "increaseLiquidity",
             "transactionType": "deposit"
-        }    
+        },
+        {
+            "name": "supply",
+            "transactionType": "deposit"
+        }     
     ]
 }
