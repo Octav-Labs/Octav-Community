@@ -1,0 +1,9 @@
+{
+    "chains": [
+        "ethereum"
+    ],
+    "protocol": "euler",
+    "addresses": [
+        "0x59828FdF7ee634AaaD3f58B19fDBa3b03E2D9d80"
+    ]
+}

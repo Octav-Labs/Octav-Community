@@ -4,6 +4,8 @@
     ],
     "protocol": "interest protocol",
     "addresses": [
-        "0xd909c5862cdb164adb949d92622082f0092efc3d"
+        "0xd909c5862cdb164adb949d92622082f0092efc3d",
+        "0x91a1fb8eeaeb0e05629719938b03ee3c32348cf7",
+        "0xFbD3060Fe1Ed10c34E236Cee837d82F019cF1D1d"
     ]
 }
