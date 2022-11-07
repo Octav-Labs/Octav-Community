@@ -1,0 +1,9 @@
+{
+    "chains": [
+        "arbitrum"
+    ],
+    "protocol": "jpeg'd",
+    "addresses": [
+        "0xb271d2C9e693dde033d97f8A3C9911781329E4CA"
+    ]
+}
