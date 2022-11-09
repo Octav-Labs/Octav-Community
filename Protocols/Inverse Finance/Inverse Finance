@@ -1,0 +1,10 @@
+{
+    "chains": [
+        "ethereum"
+    ],
+    "protocol": "inverse finance",
+    "addresses": [
+        "0x1637e4e9941d55703a7a5e7807d6ada3f7dcd61b",
+        "0x4dCf7407AE5C07f8681e1659f626E114A7667339"
+    ]
+}

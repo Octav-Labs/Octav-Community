@@ -1,0 +1,9 @@
+{
+    "chains": [
+        "arbitrum"
+    ],
+    "protocol": "gmx",
+    "addresses": [
+        "0xa906f338cb21815cbc4bc87ace9e68c87ef8d8f1"
+    ]
+}
