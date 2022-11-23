@@ -11,6 +11,10 @@
         {
             "name": "supply",
             "transactionType": "deposit"
-        }     
+        },
+        {
+            "name": "supplyWithPermit",
+            "transactionType": "deposit"
+        }       
     ]
 }

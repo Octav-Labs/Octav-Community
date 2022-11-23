@@ -1,0 +1,9 @@
+{
+    "chains": [
+        "ethereum"
+    ],
+    "protocol": "barnbridge",
+    "addresses": [
+        "0xb0fa2beee3cf36a7ac7e99b885b48538ab364853"
+    ]
+}

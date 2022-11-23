@@ -1,0 +1,9 @@
+{
+    "chains": [
+        "ethereum"
+    ],
+    "protocol": "bancor",
+    "addresses": [
+        "0xeef417e1d5cc832e619ae18d2f140de2999dd4fb"
+    ]
+}
