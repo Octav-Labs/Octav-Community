@@ -1,0 +1,11 @@
+{
+    "chainContracts": [
+        "polygon:0x27f8d03b3a2196956ed754badc28d73be8830a6e",
+        "polygon:0x1a13f4ca1d028320a707d99520abfefca3998b7f",
+        "ethereum:0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f",
+        "ethereum:0x896443434959f63fa58e4d969a9afe267dcf57bf",
+        "ethereum:0xf256cc7847e919fac9b808cc216cac87ccf2f47a",
+        "fantom:0xe45ac34e528907d0a0239ab5db507688070b20bf"
+    ],
+    "type": "RECEIPT"
+}
