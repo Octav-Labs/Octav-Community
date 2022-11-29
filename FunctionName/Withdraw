@@ -1,7 +1,7 @@
 {
     "transactionFunctionNames": [
         {
-            "name": "",
+            "name": "withdraw",
             "transactionType": "withdraw"
         }   
     ]

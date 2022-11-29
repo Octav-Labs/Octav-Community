@@ -7,3 +7,12 @@
         "0xb8901acb165ed027e32754e0ffe830802919727f"
     ]
 }
+{
+    "chains": [
+        "ethereum"
+    ],
+    "protocol": "hop protocol",
+    "addresses": [
+        "0xb8901acb165ed027e32754e0ffe830802919727f"
+    ]
+}

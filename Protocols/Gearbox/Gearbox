@@ -4,6 +4,7 @@
     ],
     "protocol": "gearbox",
     "addresses": [
-        "0x86130bdd69143d8a4e5fc50bf4323d48049e98e4"
+        "0x86130bdd69143d8a4e5fc50bf4323d48049e98e4",
+        "0x4f952c4c5415b2609899abdc2f8f352f600d14d6"
     ]
 }

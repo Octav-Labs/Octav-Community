@@ -1,0 +1,10 @@
+{
+    "chains": [
+        "ethereum"
+    ],
+    "protocol": "alchemix",
+    "addresses": [
+        "0x8392f6669292fa56123f71949b52d883ae57e225",
+        "0xab8e74017a8cc7c15ffccd726603790d26d7deca"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "chainContracts": [
+        "polygon:0x27f8d03b3a2196956ed754badc28d73be8830a6e",
+        "polygon:0x1a13f4ca1d028320a707d99520abfefca3998b7f",
+        "ethereum:0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f",
+        "ethereum:0x896443434959f63fa58e4d969a9afe267dcf57bf",
+        "ethereum:0xf256cc7847e919fac9b808cc216cac87ccf2f47a",
+        "fantom:0xe45ac34e528907d0a0239ab5db507688070b20bf",
+        "ethereum:0x3185626c14aCB9531d19560dECb9d3E5E80681b1",
+        "ethereum:0x35A18000230DA775CAc24873d00Ff85BccdeD550",
+        "ethereum:0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+        "ethereum:0x411A9B902F364817a0f9C4261Ce28b5566a42875",
+        "ethereum:0xAE461cA67B15dc8dc81CE7615e0320dA1A9aB8D5",
+        "ethereum:0x6C8c6b02E7b2BE14d4fA6022Dfd6d75921D90E4E",
+        "polygon:0xf04adBF75cDFc5eD26eeA4bbbb991DB002036Bdd",
+        "polygon:0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8",
+        "polygon:0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171",
+        "polygon:0x65752C54D9102BDFD69d351E1838A1Be83C924C6",
+        "optimism:0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8",
+        "avax:0x4CF9dC05c715812FeAD782DC98de0168029e05C8",
+        "ethereum:0x481DdaF90C59d91F3e480E6793122E62612CA5A9",
+        "ethereum:0x33F6DDAEa2a8a54062E021873bCaEE006CdF4007",
+        "ethereum:0xD45Afa3649e57a961C001b935deD1c79D81A9d23",
+        "ethereum:0x82DBc2673e9640343D263a3c55DE49021AD39aE2",
+        "polygon:0xc487e3101C9A0F3f39ff02e8eb47d640b078b7df",
+        "polygon:0x8b7aA8f5cc9996216A88D900df8B8a0a3905939A",
+        "polygon:0x853Ee4b2A13f8a742d64C8F088bE7bA2131f670d"
+    ],
+    "type": "RECEIPT"
+}

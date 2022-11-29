@@ -5,7 +5,8 @@
     ],
     "protocol": "1inch network",
     "addresses": [
-        "0x11111254369792b2ca5d084ab5eea397ca8fa48b"
+        "0x11111254369792b2ca5d084ab5eea397ca8fa48b",
+        "0x1111111254eeb25477b68fb85ed929f73a960582"
     ]
 }
 {

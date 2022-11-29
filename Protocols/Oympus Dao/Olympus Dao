@@ -1,0 +1,9 @@
+{
+    "chains": [
+        "ethereum"
+    ],
+    "protocol": "olympus dao",
+    "addresses": [
+        "0xc8c436271f9a6f10a5b80c8b8ed7d0e8f37a612d"
+    ]
+}
