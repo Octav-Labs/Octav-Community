@@ -1,32 +1,139 @@
+//Polygon
 {
     "chainContracts": [
-        "avax:0x4CF9dC05c715812FeAD782DC98de0168029e05C8",
-        "bsc:0xa39af17ce4a8eb807e076805da1e2b8ea7d0755b",
-        "bsc:0x1998be7f13608e62eac2da735d88a576db3d9eea",
-        "ethereum:0x481DdaF90C59d91F3e480E6793122E62612CA5A9",
-        "ethereum:0x33F6DDAEa2a8a54062E021873bCaEE006CdF4007",
-        "ethereum:0xD45Afa3649e57a961C001b935deD1c79D81A9d23",
-        "ethereum:0x82DBc2673e9640343D263a3c55DE49021AD39aE2",
+        "polygon:0x27f8d03b3a2196956ed754badc28d73be8830a6e",
+        "polygon:0x1a13f4ca1d028320a707d99520abfefca3998b7f",
+        "polygon:0xf04adBF75cDFc5eD26eeA4bbbb991DB002036Bdd",
+        "polygon:0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8",
+        "polygon:0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171",
+        "polygon:0x65752C54D9102BDFD69d351E1838A1Be83C924C6",
+        "polygon:0xc487e3101C9A0F3f39ff02e8eb47d640b078b7df",
+        "polygon:0x8b7aA8f5cc9996216A88D900df8B8a0a3905939A",
+        "polygon:0x853Ee4b2A13f8a742d64C8F088bE7bA2131f670d",
+        "polygon:0x4B1F1e2435A9C96f7330FAea190Ef6A7C8D70001",
+        "polygon:0x34965ba0ac2451A34a0471F04CCa3F990b8dea27",
+        "polygon:0x85dE135fF062Df790A5f20B79120f17D3da63b2d",
+        "polygon:0xbedEE6a7c572aa855a0c84d2f504311d482862F4",
+        "polygon:0xA79983Daf2A92c2C902cD74217Efe3D8AF9Fba2a",
+        "polygon:0xE62Ec2e799305E0D367b0Cc3ee2CdA135bF89816",
+        "polygon:0x7AfcF11F3e2f01e71B7Cc6b8B5e707E42e6Ea397",
+        "polygon:0xe9Bb87c33d1607B06fb3988b31E9601BD21Ff3bD",
+        "polygon:0x50409De292f5F821888702e9538Bf15Fa273dFE6",
+        "polygon:0x3bb367F673D52d1a5F0812c4d8c9030E5876ad44",
+        "polygon:0x88CCc3C766FDf1dB0bdc5CE7433384e8A520E21b",
+        "polygon:0x6e7a5FAFcec6BB1e78bAE2A1F0B612012BF14827"
+    ],
+    "type": "RECEIPT"
+}
+//Ethereum
+{
+    "chainContracts": [
         "ethereum:0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f",
         "ethereum:0x896443434959f63fa58e4d969a9afe267dcf57bf",
-        "ethereum:0xf256cc7847e919fac9b808cc216cac87ccf2f47a",        
+        "ethereum:0xf256cc7847e919fac9b808cc216cac87ccf2f47a",
         "ethereum:0x3185626c14aCB9531d19560dECb9d3E5E80681b1",
         "ethereum:0x35A18000230DA775CAc24873d00Ff85BccdeD550",
         "ethereum:0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
         "ethereum:0x411A9B902F364817a0f9C4261Ce28b5566a42875",
         "ethereum:0xAE461cA67B15dc8dc81CE7615e0320dA1A9aB8D5",
         "ethereum:0x6C8c6b02E7b2BE14d4fA6022Dfd6d75921D90E4E",
+        "ethereum:0x481DdaF90C59d91F3e480E6793122E62612CA5A9",
+        "ethereum:0x33F6DDAEa2a8a54062E021873bCaEE006CdF4007",
+        "ethereum:0xD45Afa3649e57a961C001b935deD1c79D81A9d23",
+        "ethereum:0x82DBc2673e9640343D263a3c55DE49021AD39aE2",
+        "ethereum:0x9a13867048e01c663ce8Ce2fE0cDAE69Ff9F35E3",
+        "ethereum:0x819f3450dA6f110BA6Ea52195B3beaFa246062dE",
+        "ethereum:0x9928e4046d7c6513326cCeA028cD3e7a91c7590A",
+        "ethereum:0xD75EA151a61d06868E31F8988D28DFE5E9df57B4",
+        "ethereum:0x088ee5007C98a9677165D78dD2109AE4a3D04d0C",
+        "ethereum:0xDafd66636E2561b0284EDdE37e42d192F2844D40",
+        "ethereum:0xC3D03e4F041Fd4cD388c549Ee2A29a9E5075882f",
+        "ethereum:0x795065dCc9f64b5614C407a6EFDC400DA6221FB0",
+        "ethereum:0x53a901d48795C58f485cBB38df08FA96a24669D5",
+        "ethereum:0xe65cdB6479BaC1e22340E4E755fAE7E509EcD06c",
+        "ethereum:0x397FF1542f962076d0BFE58eA045FfA2d347ACa0",
+        "ethereum:0x06da0fd433C1A5d7a4faa01111c044910A184553",
+        "ethereum:0x39AA39c021dfbaE8faC545936693aC917d5E7563",
+        "ethereum:0xC4C319E2D4d66CcA4464C0c2B32c9Bd23ebe784e",
+        "ethereum:0x030bA81f1c18d280636F32af80b9AAd02Cf0854e",
+        "ethereum:0x4B0181102A0112A2ef11AbEE5563bb4a3176c9d7",
+        "ethereum:0xf43211935C781D5ca1a41d2041F397B8A7366C7A",
+        "ethereum:0x9848482da3Ee3076165ce6497eDA906E66bB85C5",
+        "ethereum:0x5E8422345238F34275888049021821E8E08CAa1f",
+        "ethereum:0xf650C3d88D12dB855b8bf7D11Be6C55A4e07dCC9",
+        "ethereum:0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5",
+        "ethereum:0x70e36f6BF80a52b3B46b3aF8e106CC0ed743E8e4",
+        "ethereum:0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+        "ethereum:0x06325440D014e39736583c165C2963BA99fAf14E",
+        "ethereum:0xaA17A236F2bAdc98DDc0Cf999AbB47D47Fc0A6Cf",
+        "ethereum:0xA3D87FffcE63B53E0d54fAa1cc983B7eB0b74A9c"
+    ],
+    "type": "RECEIPT"
+}
+//Fantom
+{
+    "chainContracts": [
         "fantom:0xe45ac34e528907d0a0239ab5db507688070b20bf",
-        "optimism:0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8",
-        "polygon:0xf04adBF75cDFc5eD26eeA4bbbb991DB002036Bdd",
-        "polygon:0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8",
-        "polygon:0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171",
-        "polygon:0x65752C54D9102BDFD69d351E1838A1Be83C924C6",                
-        "polygon:0x27f8d03b3a2196956ed754badc28d73be8830a6e",
-        "polygon:0x1a13f4ca1d028320a707d99520abfefca3998b7f",
-        "polygon:0xc487e3101C9A0F3f39ff02e8eb47d640b078b7df",
-        "polygon:0x8b7aA8f5cc9996216A88D900df8B8a0a3905939A",
-        "polygon:0x853Ee4b2A13f8a742d64C8F088bE7bA2131f670d"
+        "fantom:0xfFbfc0446cA725b21256461e214E9D472f9be390",
+        "fantom:0x287ebF376c59a037B8D8E0e987461b2fd8550D8c",
+        "fantom:0xD5fa400a24EB2EA55BC5Bd29c989E70fbC626FfF",
+        "fantom:0x4Fe6f19031239F105F753D1DF8A0d24857D0cAA2",
+        "fantom:0x5ab00b7E2FFA1Ce2ba419A0A61978A05F1b518af",
+        "fantom:0xE02f47ed61363C971b011B8585037B78A04580dF",
+        "fantom:0x3425B1c18491dDC780fb5ab7ACC3dF7D8B802C87",
+        "fantom:0xE82c217B8b89220565441AEF49d49c1F9fb85eFe",
+        "fantom:0x8D9AED9882b4953a0c9fa920168fa1FDfA0eBE75",
+        "fantom:0xD9A4108CBB40a12dE16dFFDc54aE5065878816d7",
+        "fantom:0xFf85fc809E760a09E5940546cE66dDE579144a37",
+        "fantom:0x94bE7e51efE2A0C06c2281b6b385FCD12C84d6F9",
+        "fantom:0xC772BA6C2c28859B7a0542FAa162a56115dDCE25",
+        "fantom:0x0DEC85e74A92c52b7F708c4B10207D9560CEFaf0",
+        "fantom:0x5AA53f03197E08C4851CAD8C92c7922DA5857E5d",
+        "fantom:0x789B5DBd47d7Ca3799f8E9FdcE01bC5E356fcDF1",
+        "fantom:0x4dE9f0ED95de2461B6dB1660f908348c42893b1A",
+        "fantom:0x484237bc35cA671302d19694c66d617142FBC235",
+        "fantom:0x31c0385DDE956f95D43Dac80Bd74FEE149961f4c",
+        "fantom:0x63AA709D3Bae838AafC5000B0b6f475Bf01BCbaA",
+        "fantom:0xf62475CbD5121e56FB09Eb9727Dd95e0755414aE",
+        "fantom:0x4fc38a2735C7da1d71ccAbf6DeC235a7DA4Ec52C",
+        "fantom:0x30748322B6E34545DBe0788C421886AEB5297789",
+        "fantom:0x936D23C83c2469f6a14B9f5bEaec13879598A5aC",
+        "fantom:0xC66c0F0318e2777A53F884C8874B6CA3c2ED8f84",
+        "fantom:0xA1BB6830fAbdDB99Ed365C0611a33741c5e6173f",
+        "fantom:0xc664Fc7b8487a3E10824Cda768c1d239F2403bBe",
+        "fantom:0xe493CE1AfDCf079d0b40FF9503D7AB5f1f125477"
+    ],
+    "type": "RECEIPT"
+}
+//Optimism
+{
+    "chainContracts": [
+        "optimism:0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8"
+    ],
+    "type": "RECEIPT"
+}
+//Avax
+{
+    "chainContracts": [
+        "avax:0x4CF9dC05c715812FeAD782DC98de0168029e05C8"
+    ],
+    "type": "RECEIPT"
+}
+//arbitrum
+{
+    "chainContracts": [
+        "arbitrum:0xa6efc26dAA4bb2b9bF5D23A0bc202A2BaDC2B59E",
+        "arbitrum:0x59745774Ed5EfF903e615F5A2282Cae03484985a",
+        "arbitrum:0x805ba50001779CeD4f59CfF63aea527D12B94829"
+    ],
+    "type": "RECEIPT"
+}
+//binance
+{
+    "chainContracts": [
+        "bsc:0x570d59e90616BA3d95a0e64E5894c3A985CAD697",
+        "bsc:0x6615CE60D71513aA4849269dD63821D324A23F8C",
+        "bsc:0x81d776C90c89B8d51E9497D58338933127e2fA80"
     ],
     "type": "RECEIPT"
 }
