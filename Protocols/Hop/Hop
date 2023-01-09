@@ -4,7 +4,8 @@
     ],
     "protocol": "hop protocol",
     "addresses": [
-        "0xb8901acb165ed027e32754e0ffe830802919727f"
+        "0xb8901acb165ed027e32754e0ffe830802919727f",
+        "0x86ca30bef97fb651b8d866d45503684b90cb3312"
     ]
 }
 {

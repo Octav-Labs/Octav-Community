@@ -21,7 +21,8 @@
         "polygon:0x50409De292f5F821888702e9538Bf15Fa273dFE6",
         "polygon:0x3bb367F673D52d1a5F0812c4d8c9030E5876ad44",
         "polygon:0x88CCc3C766FDf1dB0bdc5CE7433384e8A520E21b",
-        "polygon:0x6e7a5FAFcec6BB1e78bAE2A1F0B612012BF14827"
+        "polygon:0x6e7a5FAFcec6BB1e78bAE2A1F0B612012BF14827",
+        "polygon:0x6FF62bfb8c12109E8000935A6De54daD83a4f39f"
     ],
     "type": "RECEIPT"
 }
@@ -66,7 +67,8 @@
         "ethereum:0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
         "ethereum:0x06325440D014e39736583c165C2963BA99fAf14E",
         "ethereum:0xaA17A236F2bAdc98DDc0Cf999AbB47D47Fc0A6Cf",
-        "ethereum:0xA3D87FffcE63B53E0d54fAa1cc983B7eB0b74A9c"
+        "ethereum:0xA3D87FffcE63B53E0d54fAa1cc983B7eB0b74A9c",
+        "ethereum:0xdA0DD1798BE66E17d5aB1Dc476302b56689C2DB4"
     ],
     "type": "RECEIPT"
 }
