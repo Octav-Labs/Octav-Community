@@ -19,6 +19,14 @@
         {
             "name": "claimMany",
             "transactionType": "Claim"
-        }  
+        },
+        {
+            "name": "claimFees",
+            "transactionType": "Claim"
+        },
+        {
+            "name": "claimBribes",
+            "transactionType": "Claim"
+        } 
     ]
 }
