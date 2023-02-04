@@ -35,3 +35,12 @@
         "0x76d3030728e52deb8848d5613abade88441cbc59"
     ]
 }
+{
+    "chains": [
+        "avalanche"
+    ],
+    "protocol": "aave v3",
+    "addresses": [
+        "0x6F143FE2F7B02424ad3CaD1593D6f36c0Aab69d7"
+    ]
+}

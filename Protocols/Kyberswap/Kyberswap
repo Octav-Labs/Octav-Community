@@ -1,0 +1,9 @@
+{
+    "chains": [
+        "ethereum"
+    ],
+    "protocol": "kyberswap",
+    "addresses": [
+        "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+    ]
+}

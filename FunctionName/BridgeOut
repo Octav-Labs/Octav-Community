@@ -1,6 +1,10 @@
 {
     "transactionFunctionNames": [
         {
+            "name": "swapAndSend",
+            "transactionType": "Bridgeout"
+        },
+        {
             "name": "sendToL2",
             "transactionType": "Bridgeout"
         }   

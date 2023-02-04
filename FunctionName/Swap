@@ -3,6 +3,14 @@
         {
             "name": "sellTokenForEthToUniswapV3",
             "transactionType": "Swap"
-        }  
+        },  
+        {
+            "name": "simpleSwap",
+            "transactionType": "Swap"
+        },  
+        {
+            "name": "multiSwap",
+            "transactionType": "Swap"
+        }    
     ]
 }

@@ -18,3 +18,12 @@
         "0x1111111254760f7ab3f16433eea9304126dcd199"
     ]
 }
+{
+    "chains": [
+        "arbitrum"
+    ],
+    "protocol": "1inch network",
+    "addresses": [
+        "0x1111111254fb6c44bAC0beD2854e76F90643097d"
+    ]
+}
