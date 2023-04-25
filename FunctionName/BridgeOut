@@ -7,6 +7,10 @@
         {
             "name": "sendToL2",
             "transactionType": "Bridgeout"
-        }   
+        },
+        {
+            "name": "outboundTransferTo",
+            "transactionType": "Bridgeout"
+        }    
     ]
 }

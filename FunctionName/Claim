@@ -27,6 +27,18 @@
         {
             "name": "claimBribes",
             "transactionType": "Claim"
-        } 
+        },
+        {
+            "name": "harvest",
+            "transactionType": "Claim"
+        },
+        {
+            "name": "claimAndDelegate",
+            "transactionType": "Claim"
+        },
+        {
+            "name": "claimRewards",
+            "transactionType": "Claim"
+        }   
     ]
 }

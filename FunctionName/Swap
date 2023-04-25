@@ -11,6 +11,10 @@
         {
             "name": "multiSwap",
             "transactionType": "Swap"
-        }    
+        },
+        {
+            "name": "batchSwap",
+            "transactionType": "Swap"
+        }      
     ]
 }

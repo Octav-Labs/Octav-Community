@@ -28,3 +28,13 @@
         "0x1c6ae197ff4bf7ba96c66c5fd64cb22450af9cc8"
     ]
 }
+
+{
+    "chains": [
+        "binance"
+    ],
+    "protocol": "synapse",
+    "addresses": [
+        "0xd123f70ae324d34a9e76b67a27bf77593ba8749f"
+    ]
+}
